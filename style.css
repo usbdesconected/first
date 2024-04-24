@@ -1,0 +1,15 @@
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+
+.imagem-fundo  {
+    background-position: 100%;
+    background-image: url(imagens/floresta.jpg) 100%;
+    background-size: 100%;
+  }
